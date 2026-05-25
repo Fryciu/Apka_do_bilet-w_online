@@ -1,0 +1,51 @@
+[
+    {
+        "ticket_name": "Wejście_na_teren",
+        "authentication_code": "AJB5QC",
+        "ticket_type": "normal",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    },
+    {
+        "ticket_name": "Pałac",
+        "authentication_code": "UhXkr9",
+        "ticket_type": "normal",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    },
+    {
+        "ticket_name": "Pałac",
+        "authentication_code": "7h2pAn",
+        "ticket_type": "reduced",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    },
+    {
+        "ticket_name": "Safari bizon",
+        "authentication_code": "0aeD9y",
+        "ticket_type": "normal",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    },
+    {
+        "ticket_name": "Muzeum cztery rodziny",
+        "authentication_code": "CLPvxN",
+        "ticket_type": "normal",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    },
+    {
+        "ticket_name": "Labirynt bukowy",
+        "authentication_code": "C3dlc8",
+        "ticket_type": "reduced",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    },
+    {
+        "ticket_name": "Labirynt z kukurydzy",
+        "authentication_code": "12345-ABCDE-67890",
+        "ticket_type": "normal",
+        "number_of_people": 2,
+        "expiration_date": "2025-12-31T23:59:59Z"
+    }
+]
